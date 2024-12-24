@@ -1,14 +1,14 @@
 AWS DEVELOPER ASSOCIATE
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 ÍNDICE
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 API REST x API HTTP x API Websocket	58
 
@@ -102,7 +102,7 @@ Interface de linha de comando EB (CLI)
 
 107
 
-https://portal.tutorialsdojo.com/	2
+	2
 
 Serviço de fila simples da Amazon (SQS) Fila padrão versus fila FIFO Conceitos
 
@@ -222,7 +222,7 @@ Duração mínima de armazenamento
 
 138
 
-https://portal.tutorialsdojo.com/	3
+	3
 
 Criptografia Amazon S3
 
@@ -356,11 +356,11 @@ Mangueira de dados Kinesis
 
 175
 
-https://portal.tutorialsdojo.com/	4
+	4
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 Amazon Elastic Container Service (ECS)
 
@@ -448,11 +448,11 @@ CloudTrail x CloudWatch CONSIDERAÇÕES FINAIS E DICAS SOBRE OS AUTORES
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/	5
+	5
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 INTRODUÇÃO
 
@@ -478,11 +478,11 @@ de começar sua jornada no DevOps, que é uma das funções mais requisitadas e 
 
 Observação: tomamos cuidado extra ao criar esses guias de estudo e folhas de dicas. No entanto, este pretende ser apenas um recurso complementar na preparação para o exame. É altamente recomendável trabalhar em sessões práticas e exames práticos para expandir ainda mais seu conhecimento e melhorar suas habilidades para fazer testes.
 
-https://portal.tutorialsdojo.com/	6
+	6
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 VISÃO GERAL DO EXAME DE ASSOCIADO DE DESENVOLVEDOR CERTIFIED DA AWS
 
@@ -530,11 +530,11 @@ DOIS-C02 65
 
 Método de Entrega:	Centro de testes ou exame supervisionado on-line
 
-https://portal.tutorialsdojo.com/	7
+	7
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Domínios de exame
 
@@ -567,13 +567,13 @@ Domínio 4: Solução de problemas e otimização (12%)
 
 5.3 Otimize aplicativos usando serviços e recursos da AWS.
 
-https://portal.tutorialsdojo.com/	8
+	8
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e
 
-Carlo Acebed
+
+
+
 
 <!-- image -->
 
@@ -589,11 +589,11 @@ Depois de receber seu relatório de pontuação por e-mail, o resultado também 
 
 passar no exame. No final do relatório, haverá uma tabela de pontuação de desempenho que destaca seus pontos fortes e fracos, o que o ajudará a determinar as áreas que você precisa melhorar.
 
-https://portal.tutorialsdojo.com/	9
+	9
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebedo
+o
 
 Benefícios do exame
 
@@ -606,13 +606,13 @@ Se você for aprovado em qualquer exame da AWS, terá direito aos seguintes bene
 
 Você pode visitar a página oficial de perguntas frequentes da AWS Certification para ver as perguntas frequentes sobre como obter a certificação AWS e outras informações sobre a certificação AWS: https://aws.amazon.com/certification/faqs/.
 
-https://portal.tutorialsdojo.com/	10
+	10
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 EXAME DE ASSOCIADO DE DESENVOLVEDOR CERTIFIED DA AWS - GUIA DE ESTUDO E DICAS
 
@@ -637,11 +637,11 @@ Os principais materiais de estudo que você usará para sua revisão são : curs
 
 AWS, exemplos de perguntas oficiais da AWS, white papers da AWS, perguntas frequentes, folhas de dicas da AWS, exames práticos da AWS e curso de vídeo da AWS com laboratórios práticos incluídos.
 
-https://portal.tutorialsdojo.com/	11
+	11
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 <!-- image -->
 
@@ -657,11 +657,11 @@ implantando um sistema de microsserviços em contêineres na AWS. Concentre-se n
 
 - Arquiteturas sem servidor com AWS Lambda – Aprenda sobre Serverless e Lambda tanto quanto você pode. Conceitos, configurações, código e arquiteturas são importantes e provavelmente
 
-https://portal.tutorialsdojo.com/	12
+	12
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 para aparecer no exame. Criar sua própria função Lambda ajudará você a lembrar os recursos com mais rapidez.
 
@@ -686,11 +686,11 @@ esses serviços.
 
 Serviços para estudar:
 
-https://portal.tutorialsdojo.com/	13
+	13
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - Amazon EC2 / ELB / Auto Scaling – Sinta-se confortável com a integração do EC2 aos ELBs(ELASTIC LOAD BALANCERS) e ao Auto Scaling. Estude os comandos AWS CLI, APIs e código SDK comumente usados nesses serviços. Concentre-se também na segurança, mantendo a alta disponibilidade e permitindo a conectividade de rede do seu ELB
 
@@ -718,11 +718,11 @@ que hospedar seu próprio banco de dados dentro de uma instância EC2.
 
 - Amazon EFS – O EFS é usado para configurar sistemas de arquivos para várias instâncias do EC2. Comparar e compare S3 com EFS e EBS. Estude também a criptografia de arquivos e a otimização do desempenho do EFS.
 
-https://portal.tutorialsdojo.com/	14
+	14
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 - Amazon Kinesis– Geralmente há perguntas complicadas sobre o Kinesis, então você deve ler seu documentação também. Concentre-se no Kinesis Data Streams e explore os outros serviços do Kinesis.
 
@@ -748,11 +748,11 @@ com os diferentes recursos do IAM. Estude como as políticas do IAM são escrita
 
 CodeCommit é um repositório git, portanto, ter conhecimento em Git será benéfico. Sugiro que você crie seu próprio pipeline simples no CodePipeline para ver como deve gerenciar suas implantações de código. Também é importante aprender como você pode reverter para o aplicativo anterior
 
-https://portal.tutorialsdojo.com/	15
+	15
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 versão após uma implantação com falha. Os whitepapers acima deveriam ter explicado as implantações locais e as implantações azul/verde e como realizar a automação.
 
@@ -800,11 +800,11 @@ Aumente a memória alocada da função.
 
 Gateway de API da Amazon
 
-https://portal.tutorialsdojo.com/	16
+	16
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 <!-- image -->
 
@@ -854,11 +854,11 @@ Qual seção deve ser adicionada a um modelo CloudFormation para incluir recurso
 
 Transformar
 
-https://portal.tutorialsdojo.com/	17
+	17
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 <!-- image -->
 
@@ -922,17 +922,17 @@ Um desenvolvedor deve garantir que nenhum aplicativo possa buscar uma mensagem d
 
 Aumente o valor VisibilityTimeout usando a API ChangeMessageVisibility e exclua a mensagem usando a API DeleteMessage.
 
-https://portal.tutorialsdojo.com/	18
+	18
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 <!-- image -->
 
 de API o desenvolvedor deve usar para permitir que o aplicativo faça solicitações de upload?
 
-https://portal.tutorialsdojo.com/
+
 
 Use a API AssumeRole
 
@@ -940,9 +940,9 @@ Use a API AssumeRole
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Aprofundamentos da AWS: PARTE TEÓRICA
 
@@ -958,11 +958,11 @@ As identidades IAM tratam do aspecto de autenticação da sua conta AWS. Pertenc
 
 Uma identidade do IAM pode ser um usuário do IAM, uma função do IAM ou um grupo do IAM.
 
-https://portal.tutorialsdojo.com/	20
+	20
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 Um usuário IAM representa o usuário ou aplicativo que interage com os serviços da AWS. Observe que um usuário IAM é diferente do usuário root. Embora permissões completas de administrador possam ser concedidas a um usuário do IAM, há certas ações que somente um usuário root pode realizar, como excluir uma conta da AWS. Os usuários do IAM recebem credenciais de longo prazo
 
@@ -982,7 +982,7 @@ O Grupo IAM é simplesmente uma coleção de usuários IAM. As políticas anexad
 
 O grupo IAM oferece uma maneira fácil de gerenciar usuários em sua conta. Por exemplo, se você tiver uma equipe de desenvolvedores que precisa de acesso ao AWS Lambda, em vez de anexar a permissão necessária para eles individualmente, você pode reunir os desenvolvedores em um grupo IAM chamado 'Desenvolvedores' e associar o
 
-https://portal.tutorialsdojo.com/	21
+	21
 
 Tutoriais Guia de estudo do
 
@@ -1012,11 +1012,11 @@ O bloco Statement é onde você adiciona as permissões necessárias para acessa
 
 A seguir está um exemplo de uma política IAM.
 
-https://portal.tutorialsdojo.com/	22
+	22
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 {
 
@@ -1055,13 +1055,13 @@ Algumas condições das quais você deve estar ciente são:
 - StringEquals - Correspondência exata de strings e distinção entre maiúsculas e minúsculas • StringNotEquals - Correspondência negada
 - StringLike - Correspondência exata, mas ignorando maiúsculas e minúsculas • StringNotLike - Correspondência negada
 
-https://portal.tutorialsdojo.com/	23
+	23
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 - Bool - Permite construir elementos Condition que restringem o acesso com base em valores verdadeiros ou falsos.
 - IpAddress – endereço IP ou intervalo especificado correspondente.
@@ -1083,21 +1083,21 @@ Existem seis tipos de política IAM: políticas baseadas em identidade, polític
 
 (política de chave) ou uma função Lambda. Observe que nem todos os recursos da AWS oferecem suporte a políticas baseadas em recurso
 
-https://portal.tutorialsdojo.com/	24
+	24
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 Uma política baseada em identidade define os recursos e ações aos quais um usuário ou função do IAM tem acesso. Como a política está anexada ao usuário ou à função do IAM, o elemento Principal não precisa ser especificado explicitamente. Em outras palavras, o usuário ou função do IAM ao qual a política está anexada é implicitamente considerado o principal.
 
 Uma política baseada em recursos, por outro lado, deve incluir os elementos Principal e Recurso. O elemento Principal especifica quais identidades do IAM têm permissão para acessar o recurso, enquanto o elemento Resource especifica em quais recursos os usuários têm permissão para executar ações. Por exemplo, uma política de bucket é um tipo de política baseada em recursos anexada a um bucket do Amazon S3. A política especifica as ações permitidas no bucket e os usuários ou funções do IAM que têm permissão para executar essas ações.
 
-https://portal.tutorialsdojo.com/	25
+	25
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 A política de bucket do S3 a seguir é um exemplo de como o elemento Resource é usado para conceder permissões em nível de recurso. Você pode ver que o bucket tdojo S3 contém duas pastas, john-folder e dave-folder, às quais os usuários do IAM John e Dave têm acesso de leitura, respectivamente.
 
@@ -1123,11 +1123,11 @@ políticas envolvidas. Se o solicitante for especificado em uma instrução DENY
 
 Aqui está uma versão simplificada do fluxograma da AWS sobre avaliação de políticas. Somente políticas baseadas em recursos e em IAM são incluídas para simplificar.
 
-https://portal.tutorialsdojo.com/	26
+	26
 
 <!-- image -->
 
-por Jon Bonso e Carlo Acebedo
+
 
 Referências:
 
@@ -1139,11 +1139,11 @@ A lógica de avaliação de política discutida na seção anterior é para aces
 
 O acesso entre contas refere-se ao acesso entre duas ou mais contas separadas da AWS. Pode ser uma instância EC2 em uma conta da AWS acessando um bucket S3 em uma conta diferente da AWS ou um usuário em uma conta assumindo uma função em outra conta para acessar recursos nessa conta.
 
-https://portal.tutorialsdojo.com/	27
+	27
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 Entre contas para usuários do IAM
 
@@ -1183,11 +1183,11 @@ Exemplo de política IAM para Tucker na conta A:
 
 "Ação": [ "s3:GetOb
 
-https://portal.tutorialsdojo.com/	28
+	28
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 "Recurso": "arn:aws:s3:::private/documents/*"
 
@@ -1223,11 +1223,11 @@ Exemplo de política de bucket S3 na conta B:
 
 "Ação": [
 
-https://portal.tutorialsdojo.com/	29
+	29
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 "s3:GetObject
 
@@ -1273,11 +1273,11 @@ Exemplo de política do IAM para um usuário do IAM na conta A:
 
 "Efeito":   "Permitir", "Ação": "sts:AssumeRole",
 
-https://portal.tutorialsdojo.com/	30
+	30
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 "Recurso": "arn:aws:iam::<ID da conta B>:role/RoleName"
 
@@ -1317,21 +1317,21 @@ A política do IAM anterior permite que você transmita quaisquer funções do I
 
 Isso cria uma falha de segurança que pode ser explorada para aumentar seu acesso. Dado que você tem permissões suficientes para
 
-https://portal.tutorialsdojo.com/	31
+	31
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 Para criar funções Lambda, tudo o que você precisa fazer é iniciar uma nova função Lambda e anexar a função de execução que tenha acesso total ao S3. Fazendo isso, mesmo que seu usuário IAM não tenha permissões S3, você ainda poderá acessar o Amazon S3 usando a função Lambda.
 
-https://portal.tutorialsdojo.com/	32
+	32
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Para melhor segurança, seja mais granular no que diz respeito ao fornecimento de acesso. Por exemplo, liste as funções específicas do IAM que um usuário pode transmitir em vez de apenas usar um curinga, como mostrado abaixo:
 
@@ -1355,11 +1355,11 @@ Referências:
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id\_roles\_use\_passrole.html https:// docs.aws.amazon.com/IAM/latest/UserGuide/reference\_policies\_examples\_iam-passrole-service.html
 
-https://portal.tutorialsdojo.com/	33
+	33
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 AWS STS
 
@@ -1391,11 +1391,11 @@ AssumirRoleWithSAML
 
 A operação da API AssumeRoleWithSAML retorna um conjunto de credenciais de segurança temporárias para usuários federados que são autenticados por provedores de identidade corporativos compatíveis com SAML 2.0. Os usuários também devem usar
 
-https://portal.tutorialsdojo.com/	34
+	34
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 SAML 2.0 (Security Assertion Markup Language) para passar informações de autenticação e autorização para a AWS.
 
@@ -1432,11 +1432,11 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API\_Operations.html
 
 https:// docs.aws.amazon.com/IAM/latest/UserGuide/id\_credentials\_temp\_request.html
 
-https://portal.tutorialsdojo.com/	35
+	35
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 AWS Lambda
 
@@ -1448,11 +1448,11 @@ Uma função Lambda pode ser invocada de diferentes maneiras. Você pode invocar
 
 comumente usadas como back-end para APIs que não exigem carga constante, como manipulação de solicitações de login ou processamento de imagens em tempo real.
 
-https://portal.tutorialsdojo.com/	36
+	36
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Invocações síncronas vs. assíncronas
 
@@ -1474,13 +1474,13 @@ funções invocadas de forma síncrona podem aceitar uma carga útil de até 6 M
 
 Talvez seja necessário implementar uma lógica de nova tentativa no seu código para lidar com erros intermitentes.
 
-https://portal.tutorialsdojo.com/	37
+	37
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebedo
+
+o
 
 Para chamar uma função Lambda de forma síncrona via API/CLI, defina RequestResponse como o valor do parâmetro invocation-type ao chamar o comando Invoke, conforme mostrado abaixo:
 
@@ -1511,13 +1511,13 @@ Alguns exemplos disso são processos de longa latência executados em segundo pl
 
 Quando uma função é invocada de forma assíncrona, o AWS Lambda armazena o evento em uma fila interna gerenciada por ele. Vamos entender a invocação assíncrona através do exemplo abaixo:
 
-https://portal.tutorialsdojo.com/	38
+	38
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Uma solicitação PUT é feita ao recurso /putOrder. Assim como no exemplo anterior, a solicitação passa pelo API Gateway, que produz um evento. Desta vez, em vez de o API Gateway invocar diretamente a função, o AWS Lambda coloca o evento na fila. Se o evento for enfileirado com êxito, o AWS Lambda retornará uma carga vazia com código de status HTTP 202. O código de status 202 é apenas uma confirmação de que o evento está na fila; não é indicativo de uma invocação bem-sucedida. O cliente não será obrigado a aguardar a conclusão da função Lambda. Portanto, para
 
@@ -1537,13 +1537,13 @@ Considerações ao usar invocação assíncrona:
 
 - As funções invocadas de forma assíncrona só podem aceitar uma carga útil de até 256 KB.
 
-https://portal.tutorialsdojo.com/	39
+	39
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 - O serviço Lambda implementa uma lógica de nova tentativa para funções invocadas de forma assíncrona.
 - Bom para aplicativos executados em segundo plano.
@@ -1572,13 +1572,13 @@ Referências:
 
 https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html
 
-https://portal.tutorialsdojo.com/	40
+	40
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 https://aws.amazon.com/blogs/architecture/understanding-the- Different-ways-to-invoke-lambda-functions/
 
@@ -1595,13 +1595,13 @@ O mapeamento da origem do evento invoca uma função de forma síncrona se uma d
 
 registros. A janela de lote padrão para Amazon Kinesis, Amazon DynamoDB e
 
-https://portal.tutorialsdojo.com/	41
+	41
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Amazon SQS é 0. Isso significa que uma função Lambda receberá lotes o mais rápido possível. Você pode ajustar o valor da janela do lote com base na natureza do seu aplicativo.
 
@@ -1631,13 +1631,13 @@ outro:
 
 #fazer nada
 
-https://portal.tutorialsdojo.com/	42
+	42
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 O código pode ser válido, mas é considerado ineficiente devido ao custo, pois a função Lambda será invocada
 
@@ -1645,11 +1645,11 @@ desnecessariamente a cada transmissão de dados do sensor, mesmo que não exija 
 
 Para resolver isso, em vez de fazer verificações condicionais para cada evento no nível da função, você deve filtrar os eventos antes que eles sejam transmitidos à sua função. Voltando ao cenário, como você está interessado apenas em valores específicos de tensão e temperatura, você pode especificar um padrão de filtro usando o parâmetro filter-criteria do comando CreateEventSourceMapping.
 
-https://portal.tutorialsdojo.com/	43
+	43
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 aws lambda create-event-source-mapping \ --function-name process-sensor-readings \ --batch-size 10 \ --starting-position LATEST \ --event-source-arn arn:aws:kinesis:us- east-1:123456789123:stream/sensores \ --critérios
 
@@ -1680,11 +1680,11 @@ você configurou para sua função Lambda. • Inicialização - após configura
 
 (Os códigos de função Lambda são armazenados com segurança no Amazon S3) e executa o código de inicialização. Código de inicialização é qualquer código escrito fora da função manipuladora. Estas podem ser suas dependências importadas, variáveis globais, objetos, etc.
 
-https://portal.tutorialsdojo.com/	44
+	44
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 - O tempo que leva para a fase INIT ser concluída adiciona latência ao tempo total de execução da sua função. Esse 'atraso' causado pela inicialização dos ambientes de execução também é conhecido como inicialização a frio. A AWS não cobra
 
@@ -1694,13 +1694,13 @@ pela inicialização a frio que ocorre durante a fase INIT; entretanto, os tempo
 
 - Este é o estágio em que a função de tratamento é executada. Depois que a função do manipulador estiver concluída processamento, o AWS Lambda mantém seu ambiente de execução aquecido (em espera) por um período de tempo. Isso permite que a função aceite solicitações de invocação subsequentes sem precisar criar um novo ambiente de execução. Como resultado, o tempo total de execução da sua função é reduzido porque o Lambda não precisa repetir tudo o que foi feito durante a fase INIT.
 
-https://portal.tutorialsdojo.com/	45
+	45
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 - Fase de DESLIGAMENTO
 
@@ -1712,13 +1712,13 @@ Referência:
 
 https://docs.aws.amazon.com/lambda/latest/dg/runtimes-context.html
 
-https://portal.tutorialsdojo.com/	46
+	46
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Reduzindo partidas a frio
 
@@ -1742,13 +1742,13 @@ Reutilizar seu ambiente de execução existente envolve reutilizar as configura�
 
 Abaixo está um exemplo de código de função Lambda em que um recurso inicializado não é aproveitado. Você pode ver que o cliente do banco de dados está escrito dentro do manipulador de função.
 
-https://portal.tutorialsdojo.com/	4
+	4
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Se for esse o caso, sua função abrirá uma nova conexão com o banco de dados sempre que for invocada, o que é caro em
 
@@ -1770,13 +1770,13 @@ Uma variável de ambiente é um par chave-valor que você pode armazenar e recup
 
 As variáveis de ambiente estão vinculadas a uma função e à sua versão específica, o que significa que nenhuma outra função pode acessá-la, exceto a função à qual está associada. Variáveis de ambiente são compartilhadas entre ambientes de execução que pertencem à mesma função.
 
-https://portal.tutorialsdojo.com/	48
+	48
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Um cenário comum em que as variáveis de ambiente são úteis é quando você deseja configurar diferentes parâmetros para um aplicativo sem alterar o código. Digamos que você tenha uma função Lambda que precisa ser testada em uma API de desenvolvimento
 
@@ -1811,13 +1811,13 @@ URLs de função com tipo de autenticação NONE, por outro lado, permitem que u
 
 primeira vista, parece arriscado, e você pode se perguntar por que alguém faria isso. Quando você usa o tipo de autenticação NONE, o AWS Lambda não é mais responsável pela autenticação de solicitações. Isso lhe dá a liberdade de implementar sua própria lógica de autenticação. Você pode, por exemplo, permitir acesso à sua função Lambda apenas para aqueles que
 
-https://portal.tutorialsdojo.com/	49
+	49
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 estão logados em seu site. Além disso, você também pode definir uma configuração CORS para especificar os domínios dos quais as solicitações de invocação devem se originar.
 
@@ -1849,13 +1849,13 @@ Referências:
 
 https://docs.aws.amazon.com/lambda/latest/dg/python-package.html https:// aws.amazon.com/premiumsupport/knowledge-center/build-python-lambda-deployment-package /
 
-https://portal.tutorialsdojo.com/	50
+	50
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Camadas Lambda
 
@@ -1871,13 +1871,13 @@ Referências:
 
 https://docs.aws.amazon.com/serverlessrepo/latest/devguide/sharing-lambda-layers.html https://aws.amazon.com/ blogs/aws/new-for-aws-lambda-use-any -linguagem de programação e componentes comuns de compartilhamento
 
-https://portal.tutorialsdojo.com/	51
+	51
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Simultaneidade e limitação
 
@@ -1911,13 +1911,13 @@ A simples adição das execuções simultâneas das funções A e B nos dá uma 
 
 Isso nos deixa com 600 execuções simultâneas sem reservas. Então, o que acontece quando a demanda pela função Lambda A excede 150 execuções simultâneas? É aqui que o estrangulamento entra em jogo. Quando uma função atinge seu limite máximo de simultaneidade, o AWS Lambda rejeitará as invocações recebidas e retornará um erro de limitação do código de status 429. Não é possível que a função Lambda A faça empréstimo do pool de simultaneidade não reservado restante.
 
-https://portal.tutorialsdojo.com/	52
+	52
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Ao calcular os limites de simultaneidade para uma função Lambda, considere duas coisas:
 
@@ -1948,13 +1948,13 @@ sua função Lambda interaja com recursos (por exemplo, banco de dados RDS, inst
 
 Para conectar sua função Lambda a uma VPC, primeiro certifique-se de que a função de execução de sua função tenha as permissões necessárias para gerenciar a criação e exclusão de Elastic Network Interfaces (ENI). Isso é necessário porque o AWS Lambda cria e exclui interfaces de rede elásticas em sub-redes especificadas na configuração de VPC da sua função. A AWS usa um serviço interno chamado AWS Hyperplane, que serve como um serviço NAT, conectando funções Lambda aos ENIs em sua VPC. Felizmente, existe a política de IAM gerenciada AWSLambdaVPCAccessExecutionRole , que contém as permissões necessárias para o trabalho.
 
-https://portal.tutorialsdojo.com/	53
+	53
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Em seguida, especifique a VPC onde seus recursos privados estão localizados nas configurações de rede da função Lambda. Ao criar uma configuração de VPC, você pode escolher as sub-redes onde as ENIs são implantadas e um grupo de segurança que controla o tráfego entre sua função Lambda e a VPC.
 
@@ -1962,13 +1962,13 @@ Uma vez conectado, sua função Lambda perderá o acesso à Internet. Isso acont
 
 Para conceder acesso à Internet à sua função Lambda, crie um gateway NAT na sub-rede pública da VPC da sua função e adicione uma entrada à tabela de rotas da sub-rede privada. Defina 0.0.0.0/0 como destino e o gateway NAT como destino.
 
-https://portal.tutorialsdojo.com/	54
+	54
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Referências:
 
@@ -1982,11 +1982,11 @@ Uma versão é um instantâneo do estado de uma função Lambda em um determinad
 
 arn:aws:lambda:us-east-2:123456789123:function:cool-function:1
 
-https://portal.tutorialsdojo.com/	55
+	55
 
 <!-- image -->
 
-Jon Bonso e Carlo Acebedo
+e o
 
 O AWS Lambda atribui números de versão monotonicamente. Isso significa que se você excluir uma versão e publicar outra, a sequência de números conforme você adiciona versões não será redefinida; em vez disso, apenas aumentará.
 
@@ -2004,11 +2004,11 @@ Referências:
 
 https://docs.aws.amazon.com/lambda/latest/dg/configuration-aliases.html https:// docs.aws.amazon.com/lambda/latest/dg/configuration-versions.html
 
-https://portal.tutorialsdojo.com/	56
+	56
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 Gateway de API da Amazon
 
@@ -2031,13 +2031,13 @@ seção Solicitação de integração contém configurações sobre como o API G
 - Para integração sem proxy, você tem a opção de usar modelos de mapeamento para modelar a estrutura dos dados da solicitação que são encaminhados ao back-end.
 - Resposta de Integração
 
-https://portal.tutorialsdojo.com/	57
+	57
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebedo
+
+o
 
 - Esta seção se aplica apenas a uma integração sem proxy. A resposta de integração intercepta o resultado retornado do back-end antes de ser retornado ao cliente.
 - Você deve configurar pelo menos uma resposta de integração. A resposta padrão é Passthrough,
@@ -2081,13 +2081,13 @@ Em uma integração sem proxy, o API Gateway tem controle sobre como os dados do
 
 dados da solicitação ao seu back-end, você pode filtrá-los primeiro usando modelos de mapeamento no nível da solicitação de integração
 
-https://portal.tutorialsdojo.com/	58
+	58
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 para obter apenas a porção que importa. A integração Non-Proxy é um pouco mais complexa de implementar e requer que você tenha conhecimento da Apached Velocity Template Language (VTL), que é o mecanismo que o API Gateway usa para modelos de mapeamento.
 
@@ -2105,11 +2105,11 @@ Fazer lançamentos canário dentro do mesmo estágio da API REST é uma ótima a
 
 Considere um estágio de API REST com uma função Lambda como back-end. Suponha que você esteja prestes a lançar uma nova versão da sua API e queira testá-la com um subconjunto de usuários enquanto continua atendendo a maior parte do tráfego com a versão antiga. Você pode transferir todo o tráfego para a nova versão quando estiver satisfeito com ela. Conforme mostrado no diagrama abaixo, o objetivo é ter um único endpoint de API que interaja dinamicamente com duas versões distintas da função Lambda.
 
-https://portal.tutorialsdojo.com/	59
+	59
 
 <!-- image -->
 
-Jon Bonso e Carlo Acebedo
+e o
 
 É aqui que as variáveis de estágio entram em jogo. No exemplo, temos uma função Lambda com dois aliases (prod e beta). Em vez de escrever os aliases reais nas configurações do back-end de integração, podemos usar a variável de estágio ver como espaço reservado. Você pode então alternar entre diferentes valores de ver na configuração Canary do estágio API e controlar a quantidade de tráfego que vai para diferentes aliases.
 
@@ -2133,11 +2133,11 @@ Digamos que você criou uma API para um aplicativo de música que retorna vário
 
 }
 
-https://portal.tutorialsdojo.com/	60
+	60
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 Se um usuário deseja obter a pontuação de popularidade ou o gênero de um determinado artista, não há como ele recuperar as informações que lhe interessam. Para resolver isso, você pode usar modelos de mapeamento para modificar a resposta antes que ela seja enviada de volta ao usuário. Supondo que sua API tenha um caminho de recurso chamado /{id}, um caminho de recurso filho chamado /genres pode ser criado nela. Nas configurações de resposta de integração, adicione um modelo de mapeamento para construir a nova resposta.
 
@@ -2153,13 +2153,13 @@ Os modelos de mapeamento são escritos na Velocity Template Language ou VTL — 
 
 Lembre-se de que os modelos de mapeamento funcionam apenas para integrações sem proxy. Isso ocorre porque nas integrações de proxy, o API Gateway simplesmente passa os dados que recebe para ambas as extremidades e não tem conhecimento de como a solicitação/resposta é modelada.
 
-https://portal.tutorialsdojo.com/	61
+	61
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Você também pode usar modelos de mapeamento para modernizar aplicativos legados. Se você tiver um aplicativo legado que deseja expor, digamos, um serviço web SOAP que processe dados XML, poderá fazer com que os clientes enviem solicitações no formato JSON e, em seguida, fazer com que o Amazon API Gateway transforme esses dados JSON em XML
 
@@ -2189,13 +2189,13 @@ Compartilhamento de recursos entre origens (CORS)
 
 CORS é um mecanismo de segurança que a maioria dos navegadores da web, como Google Chrome ou Mozilla Firefox, impõe para relaxar as restrições da política de mesma origem. A política de mesma origem é um recurso de segurança do navegador que limita os scripts carregados de uma origem para interagir apenas com recursos da mesma origem. Embora a intenção seja boa, às vezes pode ser muito restritiva. As empresas hoje geralmente contam com APIs de terceiros para adicionar recursos rapidamente aos seus aplicativos. Isto não seria possível com a Política de Mesma Origem em vigor. Para resolver esse problema, os engenheiros tiveram a ideia do compartilhamento de recursos entre origens para afrouxar as restrições da Política de Mesma Origem.
 
-https://portal.tutorialsdojo.com/	62
+	62
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Como funciona o CORS?
 
@@ -2205,11 +2205,11 @@ Access-Control-Allow-Origin e Access-Control-Request-Method . O desenvolvedor da
 
 de API permitidos para o Google Chrome. Se pet.com estiver especificado em Access-Control-Allow-Origin, somente então o Google Chrome enviará a solicitação GET real.
 
-https://portal.tutorialsdojo.com/	63
+	63
 
 <!-- image -->
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Assim como petbreed.com, você também pode configurar o CORS no API Gateway. Observe que o CORS está desabilitado por padrão. O CORS é configurado no nível do método de recurso ao usar integrações não proxy. Você deve especificar os cabeçalhos de controle de acesso adequados nos mapeamentos de cabeçalho da resposta de integração da sua API. Por outro lado, se estiver usando uma integração de proxy, você deverá declarar explicitamente os cabeçalhos de controle de acesso na resposta retornada pelo seu back-end.
 
@@ -2223,11 +2223,11 @@ O API Gateway permite usar o grupo de usuários Cognito ou uma função Lambda p
 
 Como funciona o autorizador do grupo de usuários do Cognito:
 
-https://portal.tutorialsdojo.com/	64
+	64
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 - Quando um usuário faz login no grupo de usuários, o Cognito verifica se as credenciais enviadas pelo usuário são válidas.
 - Se o login for bem-sucedido, o Cognito retornará um token web JSON (JWT) ao cliente.
@@ -2239,13 +2239,13 @@ Talvez você queira implementar um autorizador de função Lambda para impor ló
 
 Como funciona um autorizador de função Lambda
 
-https://portal.tutorialsdojo.com/	65
+	65
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - O aplicativo envia um método GET para o API Gateway, juntamente com um token de acesso ou parâmetros de solicitação.
 - O API Gateway verificará se um autorizador Lambda está habilitado para o método. Se for, API Gateway chama a função Lambda que autoriza a solicitação.
@@ -2266,13 +2266,13 @@ Referências:
 
 https://aws.amazon.com/blogs/aws/new-usage-plans-for-amazon-api-gateway/ https:// docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway- api-usage-plans.html
 
-https://portal.tutorialsdojo.com/	66
+	66
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Amazon DynamoDB
 
@@ -2304,13 +2304,13 @@ primárias 1. Chave de partição (obrigatória)
 
 - identifica exclusivamente cada item em uma tabela
 
-https://portal.tutorialsdojo.com/	67
+	67
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 - um valor de chave de partição é usado como entrada para a função hash interna no DynamoDB. A saída dessa função hash determina a partição ou o armazenamento físico interno no qual o item será armazenado ou recuperado.
 
@@ -2366,13 +2366,13 @@ Tamanho total dos itens indexados em um
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/	68
+	68
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 restrições por
 
@@ -2424,13 +2424,13 @@ Operações de verificação e
 
 consulta Uma operação de consulta realiza uma pesquisa direta em itens específicos que você deseja pesquisar com base em uma chave de partição. É como folhear o índice de um livro para determinar em quais páginas uma palavra-chave pode ser encontrada. A
 
-https://portal.tutorialsdojo.com/	69
+	69
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 A operação de digitalização, por outro lado, é análoga a percorrer as páginas uma por uma para encontrar uma determinada informação. No caso do DynamoDB, uma operação Scan irá literalmente ler e retornar todos os itens de uma tabela.
 
@@ -2462,13 +2462,13 @@ acima.
 
 Modo provisionado
 
-https://portal.tutorialsdojo.com/	70
+	70
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Se você escolher o modo provisionado, especifique o número de leituras e gravações por segundo necessárias para seu aplicativo. Você pode usar o escalonamento automático para ajustar automaticamente a capacidade provisionada da sua tabela em resposta às alterações de tráfego.
 
@@ -2492,13 +2492,13 @@ Para tabelas de modo sob demanda, você não precisa especificar a quantidade de
 
 - 1 unidade de solicitação de gravação (WRU) = 1 gravação de até 1 KB/s.
 
-https://portal.tutorialsdojo.com/	71
+	71
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - 2 WRUs = 1 solicitação de gravação transacional (uma gravação por segundo) para itens de até 1 KB. • Para
 
@@ -2534,13 +2534,13 @@ Etapa # 3 Multiplique o WCU por item pelo número de itens a serem gravados por 
 
 = 900 WCU
 
-https://portal.tutorialsdojo.com/	72
+	72
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Referência:
 
@@ -2556,13 +2556,13 @@ Observe que uma modificação real deve ser feita em um item para que ele seja c
 
 Casos de uso
 
-https://portal.tutorialsdojo.com/	73
+	73
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - Agregação de dados para auditoria – no exemplo abaixo, a tabela Transações é a tabela de origem.
 
@@ -2572,13 +2572,13 @@ Quando novas transações são inseridas nele, novos registros preencherão os f
 
 mensagens de alerta por e-mail sobre suas atividades de transação.
 
-https://portal.tutorialsdojo.com/	74
+	74
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Existem quatro tipos de visualização de stream que você pode escolher ao usar Streams do DynamoDB. O Stream View Type determina que tipo de dados você deseja capturar.
 
@@ -2607,13 +2607,13 @@ porque essa configuração não sobreviverá a uma falha de máquina ou de AZ. �
 
 Depois de criar o cluster DAX, você precisa fazer pequenos ajustes no código do seu aplicativo. Primeiro, você precisa baixar e importar o SDK do cliente DAX. Em seguida, aponte suas chamadas de API existentes do DynamoDB para o endpoint do cluster DAX, substituindo o cliente DynamoDB existente por um novo cliente DAX. Você não precisa preencher o
 
-https://portal.tutorialsdojo.com/	75
+	75
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 armazenar em cache ou gravar qualquer lógica de cache, como carregamento lento ou invalidação de cache. Todas as operações pesadas são feitas para você pelo cliente DAX.
 
@@ -2654,11 +2654,11 @@ https://aws.amazon.com/dynamodb/dax/ https://
 
 aws.amazon.com/blogs/database/how-to-increase-performance-while-reduce-costs-by-using-amazo n -dynamodb-accelerator-dax-and- aws-lambda/
 
-https://portal.tutorialsdojo.com/	76
+	76
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 ACID de transações do
 
@@ -2696,13 +2696,13 @@ Em nosso exemplo, precisávamos de três operações executadas sequencialmente 
 
 problema se ocorrer uma falha durante a terceira etapa. $ 100 seriam deduzidos da Conta A, mas você não veria esse valor adicionado à Conta B.
 
-https://portal.tutorialsdojo.com/	77
+	77
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Com as transações do DynamoDB, você pode agrupar essas três operações individuais em uma única função. Esta função equivale a 1 transação. Como resultado, se uma das operações falhar, a transação como um todo também falhará. A condição para o sucesso da transação é bastante simples. Todas as três operações devem ser bem-sucedidas – é tudo ou nada.
 
@@ -2723,13 +2723,13 @@ Tempo de vida do DynamoDB (TTL)
 
 Time-To-Live ou TTL permite expirar automaticamente um item com base em um carimbo de data/hora definido. O TTL pode ser uma ferramenta poderosa para limpar sua tabela do DynamoDB e manter seu tamanho pequeno e gerenciável ao longo do tempo. O tamanho da tabela afeta diretamente o custo de armazenamento e execução de consultas, portanto, ter menos dados para ler e armazenar significa mais economia de custos para você.
 
-https://portal.tutorialsdojo.com/	78
+	78
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 O TTL também é útil em situações em que você só precisa manter os dados por um determinado período de tempo e, depois disso, você se livra deles. Por exemplo, se você tiver um aplicativo que oferece acesso a um serviço por tempo limitado, em vez de codificar a lógica para expirar o acesso do usuário, pode ser mais fácil apenas ativar o TTL e deixar o DynamoDB
 
@@ -2755,13 +2755,13 @@ Tabelas globais do DynamoDB
 
 As tabelas globais do DynamoDB permitem replicar automaticamente sua tabela do DynamoDB nas regiões da AWS de sua escolha. Se você está optando por uma arquitetura multirregional para um aplicativo, a vantagem para você, como desenvolvedor, é que você não precisa mais supervisionar a replicação de dados por conta própria. O DynamoDB usa DynamoDB Streams para gerenciar a sincronização de tabelas. Portanto, antes de poder usar tabelas globais, você deve habilitar Streams do DynamoDB com o NEW\_AND\_OLD\_IMAGES StreamViewType.
 
-https://portal.tutorialsdojo.com/	79
+	79
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Por que usar tabelas globais?
 
@@ -2779,13 +2779,13 @@ https://aws.amazon.com/dynamodb/global-tables/ https://
 
 aws.amazon.com/blogs/database/how-to-use-amazon-dynamodb-global-tables-to-power-multiregion- uma arquitetura/
 
-https://portal.tutorialsdojo.com/	80
+	80
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 AWS CloudFormation
 
@@ -2827,13 +2827,13 @@ a seção Recursos é a única seção OBRIGATÓRIA em um modelo CloudFormation.
 
 grupo de segurança e assim por diante. Os parâmetros permitem que os usuários passem valores dinamicamente com base em seu caso de uso.
 
-https://portal.tutorialsdojo.com/	81
+	81
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 - Condições - define condições usando as funções de condição intrínseca. Essas condições determinam quando o AWS CloudFormation cria os recursos associados.
 
@@ -2871,13 +2871,13 @@ MyEC2Instance
 
 - !FindInMap - este funciona apenas com a seção Mapeamentos. FindInMap retorna um valor nomeado com base em uma chave especificada. Por exemplo, suponha que você tenha AMIs personalizadas em us-east-1 e us-east-2. E você
 
-https://portal.tutorialsdojo.com/	82
+	82
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 desejam ter certeza de que seus IDs de imagem estão acessíveis em tempo de execução, independentemente da região em
 
@@ -2915,13 +2915,13 @@ O recurso AWS::EC2::Instance contém atributos como a zona de disponibilidade on
 
 Sempre verifique a documentação dos atributos disponíveis para um determinado recurso.
 
-https://portal.tutorialsdojo.com/	83
+	83
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 Referências:
 
@@ -2952,13 +2952,13 @@ AllocatedStorage: '20' DBInstanceClass: db.t2.micro
 
 Motor: mysql
 
-https://portal.tutorialsdojo.com/	84
+	84
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 MasterUsername: '{{resolve:secretsmanager:DBcreds:SecretString:nomedeusuário}}' MasterUserPassword: '{{resolve:secretsmanager:DBcreds:SecretString:password}}'
 
@@ -2996,13 +2996,13 @@ def lambda\_handler(evento, contexto):
 
 # Obtenha o nome de usuário e a senha do segredo secret\_value = secretsmanager.get\_secret\_value(SecretId=secret\_name) secret\_dict = json.loads(secret\_value['SecretString'])
 
-https://portal.tutorialsdojo.com/	85
+	85
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 nome de usuário = secret\_dict['nomedeusuário'] senha = secret\_dict['senha']
 
@@ -3022,13 +3022,13 @@ uma fonte de evento e conectá-los todos juntos. Como resultado, o tempo de dese
 
 Antes de poder acessar os recursos personalizados no SAM, você deve declarar a macro de transformação AWS::Serverless na seção Transform de um modelo do CloudFormation.
 
-https://portal.tutorialsdojo.com/	86
+	86
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Quando você implanta um modelo SAM, o CloudFormation procurará primeiro a seção Transform e, se houver, todos os recursos definidos nela serão expandidos para seus recursos nativos do CloudFormation. O SAM tem opções limitadas em termos de tipos de recursos. É muito específico para recursos sem servidor, como funções Lambda, estágios API Gateway, buckets Amazon S3 e tabelas DynamDB.
 
@@ -3056,13 +3056,13 @@ Referência:
 
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-reference. HTML
 
-https://portal.tutorialsdojo.com/	87
+	87
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Funções de etapas da AWS
 
@@ -3092,13 +3092,13 @@ Existem oito tipos de estado que você pode usar para construir uma máquina de 
 
 realizando trabalho. Isso é útil quando você está depurando uma parte da sua máquina de estado e deseja ter visibilidade da saída de um estado específico.
 
-https://portal.tutorialsdojo.com/	88
+	88
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Referências:
 
@@ -3138,11 +3138,11 @@ east-1", "eventTime": "2018-12-18T00:23:05Z",
 
 }
 
-https://portal.tutorialsdojo.com/	89
+	89
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 }
 
@@ -3156,11 +3156,11 @@ InputPath
 
 - Seleciona uma parte da entrada do estado JSON.
 
-https://portal.tutorialsdojo.com/	90
+	90
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 - Os estados de sucesso e falha não são suportados.
 
@@ -3196,11 +3196,11 @@ Entrada original:
 
 Criando uma nova entrada JSON usando parâmetros:
 
-https://portal.tutorialsdojo.com/	91
+	91
 
 <!-- image -->
 
-Associate por Jon Bonso e Carlo Acebed
+
 
 {
 
@@ -3244,13 +3244,13 @@ Resultado original:
 
 { "Conexão": "keep-alive", "Content- Length": "43",
 
-https://portal.tutorialsdojo.com/	92
+	92
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 "Tipo de conteúdo": "aplicativo/json",
 
@@ -3299,13 +3299,13 @@ Exemplo:
 
 Antes do filtro de saída:
 
-https://portal.tutorialsdojo.com/	93
+	93
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 {
 
@@ -3344,13 +3344,13 @@ Exemplo:
 
 Antes do filtro de saída:
 
-https://portal.tutorialsdojo.com/	94
+	94
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 {
 
@@ -3376,13 +3376,13 @@ Referências:
 
 https://docs.aws.amazon.com/step-functions/latest/dg/concepts-input-output-filtering.html https:// aws.amazon.com/blogs/compute/modeling-workflow-input-output -path-processing-with-data-flow-simulador /
 
-https://portal.tutorialsdojo.com/	95
+	95
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 AWS ElasticBeanstalk
 
@@ -3394,13 +3394,13 @@ Políticas de implantação
 
 - De uma vez
 
-https://portal.tutorialsdojo.com/	96
+	96
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - A versão mais recente é implementada em todas as instâncias do ambiente do Elastic Beanstalk no
 
@@ -3411,13 +3411,13 @@ mesmo tempo.
 
 - Rolando
 
-https://portal.tutorialsdojo.com/	97
+	97
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - A versão mais recente é implantada em lotes. • O
 
@@ -3427,23 +3427,23 @@ impacto da falha na implantação é menor em comparação com Tudo de uma vez, 
 
 - Rolando com um lote adicional
 
-https://portal.tutorialsdojo.com/	98
+	98
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - Uma variação do Rolling que resolve o problema de aplicativos executados com capacidade reduzida durante a implantação.
 
-https://portal.tutorialsdojo.com/	99
+	99
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Quando uma nova versão é implantada, em vez de tirar uma instância de serviço, o Elastic Beanstalk inicia um lote temporário de instâncias com a versão atual. Dessa forma, o aplicativo sempre roda em plena capacidade. • A nova versão atende o tráfego
 
@@ -3463,11 +3463,11 @@ balanceador. A nova versão é testada primeiro em uma única instância dentro 
 
 100
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 em seguida, transfere as novas instâncias para o grupo de escalonamento automático original. As instâncias antigas e o grupo temporário de escalonamento automático são encerrados após uma
 
@@ -3491,9 +3491,9 @@ Elastic Beanstalk instala a nova versão em um novo conjunto de instâncias e, e
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 as instâncias passarem nas verificações de integridade até então, a implantação será bem-sucedida. O Elastic Beanstalk encaminhará o restante do tráfego para as novas instâncias e encerrará as instâncias antigas. Se as novas instâncias
 
@@ -3517,13 +3517,13 @@ Para implementar uma implantação azul/verde para sua aplicação Elastic Beans
 
 - Quando o novo ambiente estiver pronto, implante uma nova versão do seu aplicativo. Faça seus testes no Terminal de URL do seu novo ambiente.
 
-https://portal.tutorialsdojo.com/	102
+	102
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Após o teste, selecione seu ambiente de produção, clique em Ações > Trocar URLs do ambiente.
 
@@ -3533,11 +3533,11 @@ Associate por Jon Bonso e Carlo Acebed
 
 103
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 A maior vantagem de uma implantação azul/verde é que a mudança para uma nova versão do aplicativo não envolverá nenhum tempo de inatividade, já que você está apenas redirecionando o tráfego, ao contrário da implantação local. A segunda vantagem é que reverter para o ambiente anterior caso algo dê errado é muito mais fácil porque a comutação é feita no nível da rede
 
@@ -3555,11 +3555,11 @@ alguns parâmetros de configuração usando o Console AWS, a CLI do EB ou o AWS 
 
 104
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 .ebextensions, certifique-se sempre de colocá-la no nível raiz do pacote de origem do seu aplicativo. Não deve estar localizado em subpastas; caso contrário, o Elastic Beanstalk não os reconhecerá.
 
@@ -3583,11 +3583,11 @@ Existem duas opções para lidar com esse problema. Primeiro, você pode solicit
 
 105
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 A política de ciclo de vida do aplicativo especifica por quanto tempo as versões antigas devem ser retidas antes de serem excluídas permanentemente. Ele também instrui o Elastic Beanstalk a excluir versões se o número total de versões do aplicativo exceder um limite
 
@@ -3607,11 +3607,11 @@ Na opção Retenção, você pode escolher se deseja ou não manter o pacote de 
 
 106
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 pacote de origem no S3, a versão do aplicativo no Elastic Beanstalk e o código-fonte no S3 serão excluídos.
 
@@ -3639,11 +3639,11 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html https:// doc
 
 107
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Serviço de fila simples da Amazon (SQS)
 
@@ -3675,11 +3675,11 @@ Polling é o método pelo qual o SQS recupera mensagens da fila e as envia ao co
 
 108
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Com sondagem longa, a solicitação ReceiveMessage pesquisa mensagens em todos os servidores SQS. O SQS retorna uma resposta após coletar pelo menos uma mensagem disponível, até o número máximo de mensagens especificado na solicitação, e só retornará uma resposta vazia se o tempo de espera da pesquisa expirar. O tempo máximo de espera de sondagem longa é de 20 segundos. A pesquisa longa ajuda a reduzir o custo de uso do SQS, eliminando o número de respostas vazias e falsas respostas vazias. Para ativar a sondagem longa, defina o tempo de espera para ser maior que 0.
 
@@ -3697,11 +3697,11 @@ https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-s
 
 109
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Amazon Cognito
 
@@ -3717,15 +3717,15 @@ Este diagrama mostra como a autenticação é tratada com grupos de usuários Co
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 110
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Os usuários enviam solicitações de autenticação para grupos de usuários do Cognito.
 - O grupo de usuários do Cognito verifica a identidade do usuário ou envia a solicitação para provedores de identidade, como Autenticação do Facebook, Google, Amazon ou SAML (com Microsoft AD).
@@ -3740,11 +3740,11 @@ Características:
 
 111
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 • Autenticação multifator (MFA) • Verificação de credenciais comprometidas • Proteção contra controle de conta • Verificação de telefone e e-mail
 
@@ -3762,11 +3762,11 @@ Este diagrama mostra como a autorização é tratada com Cognito Identity Pools:
 
 112
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - O aplicativo da web ou aplicativo móvel envia seu token de autenticação para Cognito Identity Pools. O token pode vir de um provedor de identidade válido, como Cognito User Pools, Amazon ou Facebook.
 - O Cognito Identity Pool troca o token de autenticação do usuário por credenciais temporárias da AWS para acessar recursos como S3 ou DynamoDB. As credenciais da AWS são enviadas de volta ao usuário.
@@ -3778,11 +3778,11 @@ Você pode definir regras em Cognito Identity Pools para mapear usuários para d
 
 113
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 1. Aqui está um resumo da tabela que descreve o grupo de usuários e o grupo de identidades do Cognito:
 
@@ -3822,15 +3822,15 @@ https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html ht
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 114
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 AWS Amplificar
 
@@ -3866,11 +3866,11 @@ de código
 
 115
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 - Oferece proteção por senha para seu aplicativo da web para que ele não possa ser visualizado publicamente enquanto você desenvolve novos recursos.
 - Fornece invalidações instantâneas de cache para garantir que todas as alterações de código sejam imediatamente visíveis para os usuários, sem limpar o cache manualmente. • Configure
@@ -3908,9 +3908,9 @@ Principais recursos do CodeCommit:
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 repositório. Outro exemplo é quando você deseja monitorar eventos do repositório. Suponha que sua equipe queira ser alertada sempre que um novo branch for criado ou quando um commit for enviado para um branch. Você pode fazer isso criando um gatilho CodeCommit que aponta para um tópico do Amazon SNS.
 
@@ -3926,13 +3926,13 @@ Referências:
 
 https://aws.amazon.com/codecommit/features/ https:// docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
 
-https://portal.tutorialsdojo.com/	117
+	117
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 AWS CodeBuild
 
@@ -3962,11 +3962,11 @@ Primeiro, você precisa emitir o comando aws ecr get-login-password. Isso retorn
 
 118
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 aws ecr get-login-password \ --region
 
@@ -4000,11 +4000,11 @@ https://docs.aws.amazon.com/codebuild/latest/userguide/sample-ecr.html
 
 119
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 AWS CodeDeploy
 
@@ -4024,11 +4024,11 @@ No Console AWS, ao clicar em CodeDeploy > Configurações de implantação, voc�
 
 120
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 CodeDeployDefault.AllAtOnce – esta é a implantação mais rápida. O aplicativo será interrompido em todas as instâncias do EC2 e o CodeDeploy instalará a versão mais recente em todas as instâncias. O aplicativo deixará de servir o tráfego durante a implantação, pois todas as instâncias estarão offline.
 
@@ -4066,11 +4066,11 @@ Referência:
 
 121
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 https://docs.aws.amazon.com/codedeploy/latest/userguide/reference-appspec-file.html
 
@@ -4089,11 +4089,11 @@ versão do aplicativo. Por exemplo, se você estiver implantando uma nova versã
 
 122
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - BeforeInstall - este gancho de evento pode ser útil se você deseja fazer backup dos arquivos de configuração do seu aplicativo antigo ou de quaisquer logs antigos e armazená-los em outro lugar do disco, para que não sejam sobrescritos quando o novo aplicativo for copiado.
 - Instalar - este evento é executado automaticamente. Durante o evento de instalação, o CodeDeploy copia seu novo arquivos do aplicativo para o destino do arquivo que você especificou.
@@ -4123,9 +4123,9 @@ A coleção de instâncias ou funções do Lambda nas quais você deseja implant
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Você pode usar grupos de implantação para criar vários estágios em seu pipeline antes de implantar na produção. Por exemplo, para
 
@@ -4145,13 +4145,13 @@ Nem todas as organizações favorecem a ideia de um processo de implantação to
 
 CodeDeploy pega seu código de um repositório e o implanta em seus servidores sem intervenção humana. No AWS CodePipeline, você pode inserir um estágio de ação de aprovação manual antes de prosseguir para o estágio final de implantação. No estágio de aprovação manual, o CodePipeline pausará a implantação para que alguém em quem você confia possa revisar as alterações. Se o aplicativo não estiver se comportando da maneira esperada antes da alteração, o
 
-https://portal.tutorialsdojo.com/	124
+	124
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 usuário autorizado pode rejeitar a implantação. Se isso acontecer, o CodePipeline interromperá a implantação. Por outro lado, se o usuário aprovar a alteração, o CodePipeline retoma a implantação na produção.
 
@@ -4163,11 +4163,11 @@ https://docs.aws.amazon.com/codepipeline/latest/userguide/approvals-action-add.h
 
 125
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 AWS CodeArtifact
 
@@ -4193,15 +4193,15 @@ https://docs.aws.amazon.com/codeartifact/latest/ug/getting-started.html https://
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 126
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 AWS CodeStar
 
@@ -4219,15 +4219,15 @@ https://docs.aws.amazon.com/codestar/latest/userguide/welcome.html https://aws.a
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 127
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Amazon Code Guru
 
@@ -4261,13 +4261,13 @@ aws.amazon.com/blogs/devops/detect-python-and-java-code-security -vulnerabilidad
 
 machine-learning/optimizing-application-performance-with-amazon-codeguru-profiler/
 
-https://portal.tutorialsdojo.com/	128
+	128
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Serviço de gerenciamento de chaves da AWS (KMS)
 
@@ -4332,15 +4332,15 @@ Não
 
 Varia
 
-https://portal.tutorialsdojo.com/
+
 
 129
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 O KMS gera material de chave para todas as chaves KMS criadas por padrão. Os materiais-chave padrão não podem ser extraídos, exportados,
 
@@ -4384,11 +4384,11 @@ se de que a operação Criptografar só pode criptografar dados com menos de 4 K
 
 130
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 - Gerar DataKey
     - cria uma chave de dados usando uma chave KMS e retorna duas versões dela: um texto simples e um texto cifrado
@@ -4410,11 +4410,11 @@ Referências: https://docs.aws.amazon.com/cli/latest/reference/kms/index.html ht
 
 131
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Amazon Cloud Front
 
@@ -4442,15 +4442,15 @@ HTTPS • Somente HTTPS.
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 132
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Política do Protocolo de Origem
 
@@ -4482,11 +4482,11 @@ Os gatilhos de eventos do CloudFront podem ser usados para executar determinadas
 
 133
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Existem quatro eventos acionadores no CloudFront:
 
@@ -4518,15 +4518,15 @@ Use quando:
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 134
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Evento de resposta do visualizador - ocorre antes do CloudFront retornar o conteúdo solicitado ao usuário. Você pode usar esse evento para acionar ações, como registrar a resposta ou modificar os cabeçalhos da resposta antes de entregá-la ao usuário.
 
@@ -4566,11 +4566,11 @@ arquivos, o que significa que você não pode executar determinadas tarefas como
 
 135
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Dito isso, se você deseja executar tarefas simples, como manipulação de cabeçalho, redirecionamentos de URL ou solicitação de autorização, considere usar o CloudFront Functions, pois é muito mais barato que o Lambda@Edge.
 
@@ -4600,11 +4600,11 @@ Essa classe de armazenamento é mais barata que a Standard-IA porque armazena da
 
 136
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Camadas inteligentes do Amazon S3
 
@@ -4638,15 +4638,15 @@ como uma vez por trimestre.
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 137
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Arquivo profundo do Amazon S3 Glacier
 
@@ -4682,11 +4682,11 @@ S3 usa uma chave KMS AES-256 que possui e gerencia para criptografia.
 
 138
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Para impor a criptografia de objetos, inclua uma condição na sua política de bucket que negue
 
@@ -4732,11 +4732,11 @@ buffer para um consumidor, como a função Lambda, você pode garantir que os ev
 
 139
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Você pode criar uma notificação para os seguintes eventos:
 
@@ -4778,15 +4778,15 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/NotificationHowTo.html htt
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 140
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Objeto S3 Lambda
 
@@ -4826,13 +4826,13 @@ Outros recursos importantes do bucket S3
 
 • Políticas de ciclo de vida — usadas para mover automaticamente objetos de uma classe de armazenamento para outra, em um esforço para reduzir custos de armazenamento ou arquivar um objeto. As políticas de ciclo de vida também podem ser usadas para expirar objetos com versão e excluí-los permanentemente do seu bucket. Ao criar uma política de ciclo de vida, você configura dois parâmetros para cada ação de transição ou exclusão:
 
-https://portal.tutorialsdojo.com/	141
+	141
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Se a política deve ser aplicada a todos os objetos no bucket ou apenas a um grupo de objetos com prefixo correspondente
 
@@ -4860,11 +4860,11 @@ cruzada, crie um documento de configuração CORS. Este é um documento com regr
 
 142
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 acesse seu bucket, as operações (métodos HTTP) que darão suporte a cada origem e outras informações específicas da operação.
 
@@ -4894,9 +4894,9 @@ Referências:
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 https://aws.amazon.com/xray/
 
@@ -4930,15 +4930,15 @@ O X-Ray Daemon é um agente que atua como proxy entre o aplicativo que está sen
 
 carrega no AWS X-Ray em lotes. Observe que o processo para ativar
 
-https://portal.tutorialsdojo.com/
+
 
 144
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 O X-Ray Daemon varia de uma plataforma de computação para outra. A tabela abaixo resume como ativar o daemon X-Ray em várias plataformas.
 
@@ -4974,13 +4974,13 @@ Referências:
 
 https://docs.aws.amazon.com/xray/latest/devguide/xray-services.html https:// docs.aws.amazon.com/xray/latest/devguide/xray-api.html
 
-https://portal.tutorialsdojo.com/	145
+	145
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Amazon Event Bridge
 
@@ -5020,11 +5020,11 @@ Para permitir que a Conta B e a Conta C publiquem eventos no barramento de event
 
 146
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 "eventos:PutRule", "eventos:PutTargets"
 
@@ -5066,15 +5066,15 @@ Lambda na conta B deve receber à sua função de execução as permissões nece
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 147
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Usando a regra do EventBridge para enviar eventos ao barramento de eventos central
 
@@ -5094,9 +5094,9 @@ Publicação de métricas personalizadas
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
+ Associate por
 
-Jon Bonso e Carlo Acebedo
+e o
 
 Existem duas maneiras de enviar métricas personalizadas para logs do Cloudwatch.
 
@@ -5116,13 +5116,13 @@ Referências:
 
 https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html https://aws.amazon.com/ premiumsupport/knowledge-center/cloudwatch-push-custom-metrics /
 
-https://portal.tutorialsdojo.com/	149
+	149
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Amazon CloudTrail
 
@@ -5152,15 +5152,15 @@ Mesmo sem criar uma trilha, você ainda pode visualizar o histórico de atividad
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 150
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Se você tiver uma alta atividade de API em um dia, o número de eventos do CloudTrail poderá ser esmagador. Seria difícil procurar eventos específicos que possam ser úteis na solução de problemas de um incidente de segurança.
 
@@ -5182,11 +5182,11 @@ https://aws.amazon.com/cloudtrail/faqs/ https:// docs.aws.amazon.com/awscloudtra
 
 151
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Gerenciador de segredos da AWS
 
@@ -5206,11 +5206,11 @@ usando uma função Lambda.
 
 152
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 O Secrets Manager usa um KMS que gerencia por padrão para impor a criptografia em repouso, portanto, não é possível armazenar dados em texto simples. No entanto, você também pode especificar uma chave KMS personalizada.
 
@@ -5248,15 +5248,15 @@ Existem também duas camadas que você pode escolher ao criar um parâmetro:
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 153
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 - Pode armazenar até 10.000 parâmetros. • O
 
@@ -5295,21 +5295,21 @@ de pacotes de software ou edição de arquivos de configuração do servidor.
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Os metadados de uma instância são um conjunto de informações disponíveis que descrevem sua instância do EC2. Metadados é um termo geral para coisas que descrevem dados. Por exemplo, em um arquivo JPG, além dos bits reais que compõem a
 
 imagem, outras propriedades como dimensão, resolução e carimbo de data/hora também são incorporadas ao arquivo de imagem. O conceito é semelhante ao que são metadados de instância. É uma coleção de propriedades relevantes da instância do EC2, como AMI, nome do host, endereço IP público, endereço IP privado, tipo de instância, endereço MAC e muito mais.
 
-https://portal.tutorialsdojo.com/	155
+	155
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Os metadados da instância também permitem visualizar os grupos de segurança associados, as credenciais de segurança e as funções do IAM da sua instância do EC2. Lembre-se de que você só pode buscar os metadados da instância em uma instância em execução no Instance Metadata Service (IMDS), que pode ser acessado por
 
@@ -5323,11 +5323,11 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html https:// docs
 
 156
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Grupo de escalonamento automático
 
@@ -5353,15 +5353,15 @@ https://aws.amazon.com/ec2/autoscaling https:// docs.aws.amazon.com/autoscaling/
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 157
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Construtor de imagens EC2
 
@@ -5385,13 +5385,13 @@ Referências:
 
 https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html https:// aws.amazon.com/blogs/security/how-to-set-up-continuous -golden-ami-vulnerabilidade-avaliações-com -inspetor-amazon
 
-https://portal.tutorialsdojo.com/	158
+	158
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Amazon Elastic Load Balancing (ELB)
 
@@ -5417,15 +5417,15 @@ suporte a endereços IPv4 e IP de pilha dupla. Os NLBs veem apenas informações
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 159
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 uma solicitação HTTP possui, como cabeçalhos, corpo, cookies, etc. Você pode configurar um Network Load Balancer usando apenas uma sub- rede, mas duas sub-redes são ideais para melhorar a tolerância a falhas do seu aplicativo. Certifique-se também de que o grupo-alvo tenha pelo menos um alvo válido para aceitar as solicitações. Se várias AZs forem especificadas, você poderá ativar o balanceamento de carga entre zonas para distribuir o tráfego em todos os destinos igualmente. A direção do tráfego da rede dependerá das regras definidas pelo ouvinte e pelo roteamento.
 
@@ -5437,15 +5437,15 @@ Referências:
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 160
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html https:// docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load -balanceamento-works.html
 
@@ -5467,13 +5467,13 @@ O AWS ELB Application Load Balancer é rico em recursos de roteamento que não p
 
 Você pode adicionar as seguintes condições a uma regra de listener para criar vários caminhos de roteamento em um único balanceador de carga:
 
-https://portal.tutorialsdojo.com/	161
+	161
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - host-header — Rota baseada no nome do host de cada solicitação. Também conhecido como roteamento baseado em host. Essa condição
 
@@ -5503,11 +5503,11 @@ Uma regra de ouvinte pode incluir até uma de cada uma das seguintes condições
 
 162
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Referências:
 
@@ -5519,15 +5519,15 @@ https://aws.amazon.com/blogs/aws/category/elastic-load-balancing/
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 163
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Cabeçalhos com vários valores
 
@@ -5559,13 +5559,13 @@ Preservando o endereço IP do cliente usando o cabeçalho X-Forwarded-For Se seu
 
 for fronteado por um Application Load Balancer (ALB), os logs do servidor conterão apenas o endereço IP do ALB como origem da solicitação. Isso ocorre porque o ALB intercepta o tráfego antes que ele seja
 
-https://portal.tutorialsdojo.com/	164
+	164
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 passado para o seu servidor. Se você precisar determinar os endereços IP reais dos usuários que estão acessando seu servidor para fins de registro, poderá recuperá-los do cabeçalho X-Forwarded-For.
 
@@ -5593,13 +5593,13 @@ Referências:
 
 https://docs.aws.amazon.com/elasticloadbalancing/latest/application/x-forwarded-headers.html
 
-https://portal.tutorialsdojo.com/
+
 
 165
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Amazon Elasticache
 
@@ -5635,11 +5635,11 @@ Carregamento lento
 
 166
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 O carregamento lento é talvez a estratégia de cache mais amplamente usada para aplicativos da web. Reduz o tempo de carregamento e melhora a capacidade de resposta, carregando dados no cache somente quando necessário. Como resultado, apenas os dados solicitados são armazenados em cache. O carregamento lento evita que o cache armazene dados que raramente são acessados. A desvantagem, entretanto, é a latência extra que ocorre durante uma falta de cache desde então. Além disso, os dados solicitados podem ficar desatualizados porque o cache só é atualizado com novas atualizações quando há uma falha
 
@@ -5651,15 +5651,15 @@ no cache. O diagrama abaixo ilustra como funciona o carregamento lento.
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 167
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 O pseudocódigo abaixo é um exemplo de como você pode implementar uma lógica de carregamento lento.
 
@@ -5690,9 +5690,9 @@ O diagrama abaixo ilustra como funciona o write-through.
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 O pseudocódigo abaixo é um exemplo de como você pode implementar uma lógica write-through.
 
@@ -5706,13 +5706,13 @@ Referência:
 
 https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/Strategies.html
 
-https://portal.tutorialsdojo.com/	169
+	169
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Amazon Kinesis
 
@@ -5748,11 +5748,11 @@ base no tráfego. • Por padrão, um fluxo de dados começa com 4 MB/s de grava
 
 171
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 - Se precisar de uma taxa de transferência mais alta, você poderá enviar um aumento de cota do AWS Support. • Adequado para requisitos de rendimento imprevisíveis e variados. •
 
@@ -5786,15 +5786,15 @@ A leitura de um fragmento normalmente envolve duas etapas:
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 172
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - Obtenção de um iterador para o fragmento que você deseja ler. Isto pode ser feito ligando para o
 
@@ -5836,13 +5836,13 @@ Portanto, se o fluxo puder lidar com 10 MB de dados por segundo e houver três c
 
 Assim como KPL serve para publicar dados em um stream (Kinesis Consumer Library), KCL é uma estrutura para consumir dados. KCL fornece uma maneira simples de ler e processar dados de um stream do Kinesis usando um
 
-https://portal.tutorialsdojo.com/	173
+	173
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 consumidor. Ele cuida de muitos dos detalhes de baixo nível envolvidos no consumo de dados, como o gerenciamento dos fragmentos do fluxo, a coordenação com outros consumidores e o tratamento de falhas.
 
@@ -5886,13 +5886,13 @@ Referência:
 
 https://docs.aws.amazon.com/streams/latest/dev/kinesis-record-processor-scaling.html
 
-https://portal.tutorialsdojo.com/	174
+	174
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
 
-por Jon Bonso e Carlo Acebedo
+ Associate
+
+
 
 Mangueira de dados Kinesis
 
@@ -5914,15 +5914,15 @@ chaves, número de instâncias a serem executadas), a rede do cluster e a funç�
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 175
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Depois de criar seu cluster ECS, uma das primeiras coisas que você fará a seguir é criar sua definição de tarefa. Uma definição de tarefa é como uma folha de especificações para os contêineres Docker que serão executados em suas instâncias ou tarefas do ECS. A seguir estão os parâmetros definidos em uma definição de tarefa: • A imagem
 
@@ -5950,9 +5950,9 @@ Por último, como os contêineres em execução nas tarefas do ECS podem precisa
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 faça solicitações de API para serviços autorizados da AWS. Além das permissões padrão do ECS necessárias para executar tarefas e serviços, os usuários do IAM também exigem permissões iam:PassRole para usar funções do IAM para tarefas. Atribuir uma função de tarefa é opcional.
 
@@ -5972,13 +5972,13 @@ O OpenSearch permite que os desenvolvedores executem facilmente uma pesquisa com
 
 Uma maneira fácil de transmitir dados para um cluster OpenSearch é por meio do Amazon Kinesis Firehose. Se estiver enviando dados não estruturados, como logs do Apache, você poderá usar o recurso de transformação de dados do Kinesis Firehose, que aproveita o AWS Lambda para converter os logs em um formato exigido pelo seu cluster OpenSearch.
 
-https://portal.tutorialsdojo.com/	177
+	177
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Referências:
 
@@ -6014,15 +6014,15 @@ Otimizando consultas
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 178
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Athena oferece suporte a vários formatos de dados, incluindo CSV, JSON, Parquet e ORC. O desempenho de suas consultas pode ser melhorado convertendo seus dados em formatos colunares, como Parquet e ORC. Você também pode implementar o particionamento de dados para limitar a quantidade de dados que precisam ser verificados por uma consulta. Isso pode fazer com que o Athena retorne os resultados da consulta mais rapidamente e com custo reduzido.
 
@@ -6041,15 +6041,15 @@ https://docs.aws.amazon.com/athena/latest/ug/what-is.html https:// aws.amazon.co
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 179
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Kit de desenvolvimento de nuvem AWS (CDK)
 
@@ -6079,11 +6079,11 @@ const vpc = new ec2.VpcNetwork(este, 'VPC');
 
 180
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 das construções L3 seguem as melhores práticas e convenções, como o menor privilégio de acesso, o que pode ajudá-lo a melhorar a estrutura e a capacidade de manutenção de seus aplicativos CDK
 
@@ -6116,15 +6116,15 @@ subdomínios para seus terminais. Se você estiver migrando de um serviço DNS e
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 181
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 em vez disso, preencha automaticamente sua zona hospedada. Certifique-se de modificar os registros NS do serviço DNS para usar os servidores de nomes da AWS. Depois de executar as ações acima, basta aguardar a chegada das consultas DNS (e esperar que o TTL do cache DNS expire se os registros já existiam) e elas deverão ser resolvidas para seus alvos designados.
 
@@ -6158,15 +6158,15 @@ Esses são os registros padrão que mapeiam domínios para endereços IP (um reg
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 182
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Gestão de tráfego
 
@@ -6208,11 +6208,11 @@ O AWS Web Application Firewall (AWS WAF) ajuda a proteger seus aplicativos web c
 
 183
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
 
-por Jon Bonso e Carlo Acebedo
+ Associate
+
+
 
 Com o AWS WAF, você pode evitar o trabalho e o esforço de ter que escrever regras do WAF do zero. AWS WAF
 
@@ -6272,15 +6272,15 @@ Procura uma string correspondente em um componente de solicitação da web. Se u
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 184
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por Jon
 
-Bonso e Carlo Acebedo
+
+
+ e o
 
 Ataque de script XSS	Inspeciona ataques de script entre sites em uma solicitação da Web.
 
@@ -6312,13 +6312,13 @@ Amazon MemoryDB para Redis
 
 Uma arquitetura de aplicação de três camadas normalmente inclui uma camada de apresentação, uma camada de aplicação e uma camada de banco de dados, com uma camada de cache frequentemente adicionada na frente do banco de dados para melhorar o desempenho da aplicação. O
 
-https://portal.tutorialsdojo.com/	185
+	185
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 A camada de cache armazena dados na memória, tornando a recuperação de dados muito mais rápida, em oposição ao armazenamento mais lento baseado em disco, como no caso de um banco de dados como o MySQL.
 
@@ -6346,13 +6346,13 @@ Amazon Elastic Container Service (Amazon ECS) • Elastic Kubernetes Service (Am
 
 Para usar o AWS AppConfig, os desenvolvedores primeiro precisam definir as configurações que desejam gerenciar. Isso pode incluir configurações de aplicativos, sinalizadores de recursos ou quaisquer outros dados de configuração. Os desenvolvedores podem usar o console AppConfig ou a AWS CLI para criar um perfil de configuração, que define os dados de configuração e os aplicativos ou serviços que podem acessá-los.
 
-https://portal.tutorialsdojo.com/	186
+	186
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate por
 
-Jon Bonso e Carlo Acebedo
+ Associate por
+
+e o
 
 Após a criação do perfil de configuração, os desenvolvedores podem criar uma estratégia de implantação, que especifica como e quando implementar alterações nos dados de configuração. As estratégias de implantação podem ser baseadas em vários fatores, como a porcentagem de usuários que devem receber as alterações, a hora do dia em que as alterações devem ser implementadas ou a localização dos
 
@@ -6388,15 +6388,15 @@ https://docs.aws.amazon.com/appsync/latest/devguide/what-is-appsync.html https:/
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 187
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Gerente de sistemas AWS
 
@@ -6420,15 +6420,15 @@ executar as atividades de correção para reduzir qualquer impacto operacional p
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 188
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Manager, você pode controlar os detalhes de configuração ou o "estado" de seus recursos, como configurações
 
@@ -6446,21 +6446,21 @@ O AWS Certificate Manager (AWS ACM) é um serviço que permite provisionar, gere
 
 Há também um serviço separado chamado AWS Private Certificate Authority (AWS Private CA) que está relacionado ao AWS Certificate Manager. ACM e AWS Private CA têm funções específicas no processo de criação e gerenciamento de certificados digitais que são usados para identificar recursos e proteger as comunicações de rede que passam pela Internet pública, em redes privadas e na nuvem. O serviço AWS Private CA permite criar certificados privados personalizáveis para uma ampla variedade de cenários, inclusive para serviços da AWS como ACM, Amazon Managed Streaming for Apache Kafka (MSK), IAM Roles Anywhere e Amazon Elastic Kubernetes Service (EKS). Todos esses serviços podem aproveitar certificados privados de CA privada, algo que o serviço AWS ACM não pode fornecer totalmente. A AWS Private CA também oferece suporte à criação de certificados privados para dispositivos de Internet das Coisas (IoT), sistemas externos, usuários corporativos e outros serviços.
 
-https://portal.tutorialsdojo.com/	189
+	189
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 COMPARAÇÃO DE SERVIÇOS AWS
 
-https://portal.tutorialsdojo.com/	190
+	190
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 S3 Standard vs S3 Standard-IA vs S3 One Zone-IA vs S3 Intelligent Tiering
 
@@ -6484,9 +6484,9 @@ SSD io1. Ele oferece maior durabilidade de 99,999% e maior proporção de IOPS p
 
 191
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 <!-- image -->
 
@@ -6662,13 +6662,13 @@ Volume HDD de baixo custo projetado para
 
 Armazenamento orientado ao rendimento para dados
 
-https://portal.tutorialsdojo.com/
+
 
 192
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer Associate
+ Associate
 
-por Jon Bonso e Carlo Acebedo
+
 
 acessado com frequência,
 
@@ -6698,29 +6698,29 @@ Dados mais frios que exigem menos varreduras por dia
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 193
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 RDS versus DynamoDB
 
-https://portal.tutorialsdojo.com/	194
+	194
 
 <!-- image -->
 
-por Jon Bonso e Carlo Acebedo
 
-https://portal.tutorialsdojo.com/	195
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
+	195
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Notas Adicionais:
 
@@ -6736,9 +6736,9 @@ replicação lógica síncrona.
 
 196
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Índice Secundário Global vs Índice Secundário Local
 
@@ -6820,13 +6820,13 @@ Cada índice secundário global tem suas próprias consultas ou varreduras em um
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 197
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Taxa de transferência
 
@@ -6889,9 +6889,9 @@ item para definir um atributo indexado anteriormente indefinido, uma operação 
 
 198
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Cálculo da capacidade de leitura/gravação do índice secundário local (modo de taxa de transferência provisionada)
 
@@ -6921,17 +6921,17 @@ item para definir um atributo indexado anteriormente indefinido, uma operação 
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Serviços de contêiner EC2 ECS vs Lambda
 
-https://portal.tutorialsdojo.com/	200
+	200
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Elastic Beanstalk x CloudFormation x OpsWorks x CodeDeploy
 
@@ -7015,11 +7015,11 @@ inicialize os softwares Chef (servidor e cliente) e Puppet
 
 também oferece suporte ao OpsWorks.
 
-Machine Translated by Google
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
+
 
 Você pode modelar componentes do OpsWorks (pilhas, camadas, instâncias e aplicativos) dentro de modelos do CloudFormation e provisioná-los
 
@@ -7080,9 +7080,9 @@ bem o CloudFormation ao implantar código em infraestrutura que é provisionada 
 
 202
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 recursos são adquiridos.
 
@@ -7106,23 +7106,23 @@ about-aws/whats-new/2014/03/03/aws-CloudFormation-supports-aws-opsworks/ https:/
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 203
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Grupo de segurança vs NACL
 
-https://portal.tutorialsdojo.com/	204
+	204
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Sua VPC possui um grupo de segurança padrão com as seguintes regras:
 
@@ -7142,17 +7142,17 @@ asterisco. Esta regra garante que se um pacote não corresponder a nenhuma das o
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Balanceador de carga de aplicativo versus balanceador de carga de rede versus balanceador de carga de gateway
 
-https://portal.tutorialsdojo.com/	206
+	206
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 Recursos comuns entre os balanceadores de carga:
 
@@ -7164,9 +7164,9 @@ Recursos comuns entre os balanceadores de carga:
 
 <!-- image -->
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 - Recursos de registro • Suporta failover zonal •
 
@@ -7178,11 +7178,11 @@ Suporta balanceamento de carga entre zonas (distribui uniformemente o tráfego e
 
 baseadas em tags • Aderência de fluxo - todos os pacotes são enviados para um destino e retornam o tráfego proveniente do mesmo alvo.
 
-https://portal.tutorialsdojo.com/	208
+	208
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 CloudTrail x CloudWatch
 
@@ -7213,9 +7213,9 @@ informa sobre logs de aplicativos, enquanto o CloudTrail Logs fornece informaç�
 
 209
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 CONSIDERAÇÕES FINAIS E DICAS
 
@@ -7227,11 +7227,11 @@ lo de maneira econômica.
 
 Esperamos que nossas folhas de dicas tenham ajudado muito em sua análise para o exame AWS Certified Developer Associate. Este certificado AWS é procurado por desenvolvedores de todo o mundo, pois prova que eles possuem o conhecimento e as habilidades para desenvolver aplicativos adequadamente na AWS. Passar em um exame de certificação
 
-da AWS não é uma tarefa fácil e a comunidade da AWS celebra os aprovados com orgulho e alegria. Nós da Tutorials Dojo nos dedicamos a ajudar você a alcançar esses resultados também. Criamos nosso conteúdo especificamente para ajudá-lo a se preparar para os exames e equipá-lo com informações importantes para que você possa ter sucesso em sua função.
+da AWS não é uma tarefa fácil e a comunidade da AWS celebra os aprovados com orgulho e alegria. Nós da Tutorialsnos dedicamos a ajudar você a alcançar esses resultados também. Criamos nosso conteúdo especificamente para ajudá-lo a se preparar para os exames e equipá-lo com informações importantes para que você possa ter sucesso em sua função.
 
 Escrevemos blogs, guias, folhas de dicas e exames práticos que também são constantemente atualizados com base em nossas experiências e no feedback de nossos alunos. Seu feedback é muito importante para nós, pois nos ajuda a melhorar nosso conteúdo e servir melhor a comunidade.
 
-E com isso, nós da Tutorials Dojo agradecemos por nos apoiar através deste eBook. Se você deseja validar o que aprendeu até agora, agora é um ótimo momento para conferir também nosso exame prático AWS Certified Developer Associate. Você também pode experimentar a versão de amostra gratuita de nosso curso de teste prático completo aqui. Ele preencherá as lacunas de seu conhecimento que você desconhece e lhe dará uma noção do ambiente real do exame. Dessa forma, você saberá o que esperar do exame real e poderá acompanhar melhor as questões. Se você tiver quaisquer problemas, preocupações ou comentários construtivos sobre nosso e-book, sinta-se à vontade para nos contatar em
+E com isso, nós da Tutorialsagradecemos por nos apoiar através deste eBook. Se você deseja validar o que aprendeu até agora, agora é um ótimo momento para conferir também nosso exame prático AWS Certified Developer Associate. Você também pode experimentar a versão de amostra gratuita de nosso curso de teste prático completo aqui. Ele preencherá as lacunas de seu conhecimento que você desconhece e lhe dará uma noção do ambiente real do exame. Dessa forma, você saberá o que esperar do exame real e poderá acompanhar melhor as questões. Se você tiver quaisquer problemas, preocupações ou comentários construtivos sobre nosso e-book, sinta-se à vontade para nos contatar em
 
 support@tutorialsdojo.com.
 
@@ -7239,27 +7239,27 @@ Boa sorte com seu exame e adoraríamos receber sua resposta.
 
 Seus parceiros de aprendizagem,
 
-Jon Bonso, Carlo Acebedo e a equipe do Tutorials Dojo
+Jon , o e a equipe do Tutorials Dojo
 
 <!-- image -->
 
-https://portal.tutorialsdojo.com/
+
 
 210
 
-Tutoriais Guia de estudo do Dojo e folhas de dicas - AWS Certified Developer
 
-Associate por Jon Bonso e Carlo Acebed
+
+
 
 SOBRE OS AUTORES
 
-Jon Bonso (10x certificado pela AWS)
+(10x certificado pela AWS)
 
 Nascido e criado nas Filipinas, Jon é cofundador do Tutorials Dojo. Agora baseado em Sydney, Austrália, ele tem mais de uma década de experiência diversificada em bancos, serviços financeiros e telecomunicações. Ele é 10x certificado pela AWS, um AWS Community Builder e trabalhou com vários serviços em nuvem, como Google Cloud e Microsoft Azure.
 
 Jon é apaixonado pelo que faz e dedica muito tempo criando cursos educacionais. Ele deu seminários de TI gratuitamente em diferentes universidades nas Filipinas e lançou sites educacionais usando seu próprio dinheiro e sem qualquer financiamento externo.
 
-Carlo Acebedo (5x AWS Certified)
+o (5x AWS Certified)
 
 Carlo é engenheiro de nuvem e criador de conteúdo no Tutorials Dojo. Ele também é membro do construtor da comunidade AWS e possui 5 certificações AWS. Carlo é especialista em construir e automatizar soluções na Amazon Web Services Cloud.
 
