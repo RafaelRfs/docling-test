@@ -1,0 +1,4 @@
+fields @timestamp, @message
+| parse @message /Query_time:\s*(?<queryTime>[0-9]+(?:\.[0-9]+)?)\s*Lock_time:\s*(?<lockTime>[0-9]+(?:\.[0-9]+)?)\s*Rows_sent:\s*(?<rowsSent>[0-9]+)\s*Rows_examined:\s*(?<rowsExamined>[0-9]+)\s*\n(?<sql>.*)$/ 
+| sort queryTime desc 
+| limit 10
